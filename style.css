@@ -60,7 +60,7 @@ section {
     background-image: url('imagens/background001.jpg');
     background-size: cover;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right center;
     padding-top: 25px;
     padding-left: 20px;
     padding-bottom: 25px;
@@ -71,7 +71,6 @@ section {
     color: white;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.135));
     font-family: 'srisacha', cursive;
-    padding-left: 35px;
     border-top: 50px;
 }
 
@@ -89,7 +88,6 @@ section {
     color: white;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.135));
     font-family: 'srisacha', cursive;
-    padding-left: 35px;
     border-top: 50px;
 }
 
