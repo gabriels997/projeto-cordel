@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+body {
+    margin: 0px;
+    
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: Passion One, Verdana, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 800%;
+    margin-top: 30px;
+    margin-bottom: 17px;
+    font-variant: small-caps;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.normal {
+    font-family: 'Sriracha', cursive;
+    padding: 20px;
+    padding-left: 35px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.imagem1 {
+    background-image: url('imagens/background001.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    padding-right: 660px;
+}
+
+.imagem1-1 {
+    color: white;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.135));
+    font-family: 'srisacha', cursive;
+    padding-left: 35px;
+    font-size: 50px;
+    border-top: 50px;
+}
+
+.imagem2 {
+    background-image: url('imagens/background002.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    padding-right: 660px;
+}
+
+.imagem2-2 {
+    color: white;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.135));
+    font-family: 'srisacha', cursive;
+    padding-left: 35px;
+    font-size: 50px;
+    border-top: 50px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer p {
+    margin-bottom: 0px;
+    text-align: center;
+}
